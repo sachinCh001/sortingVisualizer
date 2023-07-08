@@ -1,4 +1,4 @@
-# Sorting-Visuiliser
+# Sorting-Visualizer
 
 Using :-
 html
